@@ -1,0 +1,5 @@
+name: FarmLands
+main: me.frostythedev.farmlands.FLPlugin
+version: 0.1 ALPHA
+authors: [frostythedev]
+website: github.com/TevinsTech/Farm-Lands
